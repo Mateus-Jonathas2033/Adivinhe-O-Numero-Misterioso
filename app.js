@@ -30,7 +30,7 @@ function gerarNumeroMisteriosoMedio() {
     }
     else{
         listaNumerosGeradosMedio.push(numeroGerado);
-        console.log(listaNumerosGeradosMedio);
+        //console.log(listaNumerosGeradosMedio);
         return numeroGerado;
     }
 }
